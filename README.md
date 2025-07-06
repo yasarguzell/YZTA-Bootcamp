@@ -83,6 +83,19 @@ Bu ürünler, markamızın bilinirliğini artırırken, sadık oyuncularla farkl
 
 ---
 
+# WhatsApp ve Toplantı Ekran Görüntüleri
+
+[WhatsApp ve Zoom](https://imgur.com/a/8kbBFPo)
+
+---
+ 
+# Product Backlog URL
+[Untidy Miro Backlog Board](https://miro.com/app/board/uXjVIgiBvks=/?share_link_id=298616973502)
+
+---
+
+# 🚀 SPRINT 1  
+
 ## ✅ Sprint Review  
 Sprint sonunda tüm ekip, proje kapsamında tamamlanan bölümler ve genel ilerleme hakkında değerlendirmelerde bulundu.  
 
@@ -103,8 +116,6 @@ Ayrıca, üretim sürecinde görev alan ekip üyeleri için, gelecekte ihtiyaç 
 Bu sayede yeni bölümlerde kullanılacak içeriklerin üretimi daha planlı ve verimli ilerleyecek.
 
 ---
-
-# 🚀 SPRINT 1  
 
 ### 📌 Sprint Notları  
 Tüm user story’ler, ilgili product backlog öğeleri içerisine entegre edilmiştir.  
