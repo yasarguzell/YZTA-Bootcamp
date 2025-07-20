@@ -143,3 +143,80 @@ Ekip içi günlük iletişim, WhatsApp üzerinden sağlanmıştır.
 **Sprint board screenshot:**  
 <img src="https://github.com/user-attachments/assets/da309e7d-a07c-49eb-982a-cf3d81af4e0a"/>
 
+# 🌀 Sprint 2 Raporu – FAITH AND SALVATION
+
+---
+
+## 🗒️ Sprint Notları
+- Tüm **User Story**'ler, ilgili **Product Backlog** öğeleri içerisine entegre edilmiştir.
+- Her **backlog item**’ına tıklanarak detaylı hikâye ve görev açıklamalarına erişilebilmektedir.
+- **Sprint içinde tamamlanması hedeflenen puan:** `100 Puan`
+
+---
+
+## 📊 Puanlama Mantığı
+- **Toplam Backlog:** 300 Puan  
+- Proje, 3 sprint’e eşit şekilde bölünmüştür.  
+- Bu sprintte de **100 puanlık görev planlaması** yapılmıştır.
+
+---
+
+## 🧱 Backlog Düzeni & Story Seçimi
+Backlog, oyuncunun deneyimini zenginleştirecek şekilde aşağıdaki odaklara göre düzenlenmiştir:
+
+- 🧩 Yeni oyun mekanikleri  
+- 🎭 Ruhsal anlatımı derinleştirecek görsel/ses efektleri  
+- 🗺️ Level 2 ve 3'ün detaylı geliştirilmesi  
+
+---
+
+## 📅 Daily Scrum
+- Günlük Scrum toplantıları **Zoom** üzerinden gerçekleştirilmiştir.  
+- Tüm toplantı kayıtları ve günlük **WhatsApp** yazışmaları arşivlenmiş ve **Google Drive**’a yüklenmiştir.  
+- Günlük iletişim dosyası adı: `Sprint 2 - Daily Scrum Chats`
+
+---
+
+## 🎮 Ürün Durumu & Oynanabilirlik
+- **Level 2** ve **Level 3** haritaları başarıyla test edilmiştir.  
+- Yeni **düşman yapay zekâları** bütünleştirilmiştir.  
+- Oynanış stabil ilerlemekte olup, **FPS** ve performans ölçümleri kabul edilebilir düzeydedir.  
+
+📸 *Ekran görüntüleri*: `Sprint 2 Gameplay Screenshots` klasörüne eklenmiştir.
+
+---
+
+## 🧪 Sprint Review
+- Tüm ekip sprint görevlerini başarıyla sundu.  
+- Yapay zekâ tepkileri, yeni karakter **form geçişleri** ve **bulmaca prototipleri** gösterildi.  
+- Harita içi ses geçişleri ve **atmosferik görseller** beğeni topladı.  
+
+### 🔧 Geliştirilebilecek Alanlar:
+- 🔄 Form geçişlerindeki geçici animasyonlar  
+- ⚖️ Level 3’teki platform zorluk dengesi  
+
+### 👥 Katılımcılar:
+Ulaş Ali Pekçevik, Müge Ezgi Ayyıldız, Yumna Ersöz, Yaşar Güzel, Yusuf Dursun
+
+---
+
+## 🔄 Sprint Retrospective
+
+### 👥 Ekip Yapısı Aynen Devam:
+- **Grup 1:** Ulaş, Müge  
+  - Yeni bölümler ve hikâye senaryolarının yazımı  
+- **Grup 2:** Yumna, Yaşar, Yusuf  
+  - Geliştirilen bölümlerin test edilmesi, hataların giderilmesi
+
+### 📌 Alınan Kararlar:
+- Oyun içi test sıklığını artırılacak.  
+- **Level 4 ve 5** için kullanılacak **yeni puzzle mekanikleri** geliştirilmesine başlanacak.  
+- **Oyun menüsü ve seçenek ekranı** için ilk taslaklar çizilecek.
+
+---
+
+## 📷 Sprint Board Update
+
+### 🖼️ Miro Sprint Board 2 Ekran Görüntüsü:
+
+<img src="https://github.com/user-attachments/assets/1e027c41-29ee-4bee-9d41-091b0b5d33c9"/>
