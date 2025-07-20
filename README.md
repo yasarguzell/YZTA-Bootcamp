@@ -172,7 +172,7 @@ Backlog, oyuncunun deneyimini zenginleştirecek şekilde aşağıdaki odaklara g
 
 ## 📅 Daily Scrum
 - Günlük Scrum toplantıları **Zoom** üzerinden gerçekleştirilmiştir.  
-- Tüm toplantı kayıtları ve günlük **WhatsApp** yazışmaları arşivlenmiş ve **Google Drive**’a yüklenmiştir.  
+- Tüm toplantı kayıtları ve günlük **WhatsApp** yazışmaları arşivlenmiş ve **link**’e yüklenmiştir.  
 - Günlük iletişim dosyası adı: `Sprint 2 - Daily Scrum Chats`
 
 ---
@@ -201,12 +201,6 @@ Ulaş Ali Pekçevik, Müge Ezgi Ayyıldız, Yumna Ersöz, Yaşar Güzel, Yusuf D
 ---
 
 ## 🔄 Sprint Retrospective
-
-### 👥 Ekip Yapısı Aynen Devam:
-- **Grup 1:** Ulaş, Müge  
-  - Yeni bölümler ve hikâye senaryolarının yazımı  
-- **Grup 2:** Yumna, Yaşar, Yusuf  
-  - Geliştirilen bölümlerin test edilmesi, hataların giderilmesi
 
 ### 📌 Alınan Kararlar:
 - Oyun içi test sıklığını artırılacak.  
