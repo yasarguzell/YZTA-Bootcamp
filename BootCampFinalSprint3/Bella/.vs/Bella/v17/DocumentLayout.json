@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ula\u015F Ali\\Desktop\\bela\\Bootcamp\\Bella\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A089804-A040-88AE-BC2A-916B33B62BD4}|Assembly-CSharp.csproj|c:\\users\\ula\u015F ali\\desktop\\bela\\bootcamp\\bella\\assets\\nextleveltrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A089804-A040-88AE-BC2A-916B33B62BD4}|Assembly-CSharp.csproj|solutionrelative:assets\\nextleveltrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A089804-A040-88AE-BC2A-916B33B62BD4}|Assembly-CSharp.csproj|C:\\Users\\Ula\u015F Ali\\Desktop\\bela\\Bootcamp\\Bella\\assets\\levelrestarter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A089804-A040-88AE-BC2A-916B33B62BD4}|Assembly-CSharp.csproj|solutionrelative:assets\\levelrestarter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A089804-A040-88AE-BC2A-916B33B62BD4}|Assembly-CSharp.csproj|C:\\Users\\Ula\u015F Ali\\Desktop\\bela\\Bootcamp\\Bella\\assets\\simpleplayermovement1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A089804-A040-88AE-BC2A-916B33B62BD4}|Assembly-CSharp.csproj|solutionrelative:assets\\simpleplayermovement1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A089804-A040-88AE-BC2A-916B33B62BD4}|Assembly-CSharp.csproj|C:\\Users\\Ula\u015F Ali\\Desktop\\bela\\Bootcamp\\Bella\\assets\\simpleplayermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A089804-A040-88AE-BC2A-916B33B62BD4}|Assembly-CSharp.csproj|solutionrelative:assets\\simpleplayermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A089804-A040-88AE-BC2A-916B33B62BD4}|Assembly-CSharp.csproj|C:\\Users\\Ula\u015F Ali\\Desktop\\bela\\Bootcamp\\Bella\\assets\\playercollisionlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A089804-A040-88AE-BC2A-916B33B62BD4}|Assembly-CSharp.csproj|solutionrelative:assets\\playercollisionlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A089804-A040-88AE-BC2A-916B33B62BD4}|Assembly-CSharp.csproj|C:\\Users\\Ula\u015F Ali\\Desktop\\bela\\Bootcamp\\Bella\\assets\\collectiblemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A089804-A040-88AE-BC2A-916B33B62BD4}|Assembly-CSharp.csproj|solutionrelative:assets\\collectiblemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A089804-A040-88AE-BC2A-916B33B62BD4}|Assembly-CSharp.csproj|C:\\Users\\Ula\u015F Ali\\Desktop\\bela\\Bootcamp\\Bella\\assets\\simplecharacterswitcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A089804-A040-88AE-BC2A-916B33B62BD4}|Assembly-CSharp.csproj|solutionrelative:assets\\simplecharacterswitcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SimplePlayerMovement.cs",
+              "DocumentMoniker": "C:\\Users\\Ula\u015F Ali\\Desktop\\bela\\Bootcamp\\Bella\\Assets\\SimplePlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\SimplePlayerMovement.cs",
+              "ToolTip": "C:\\Users\\Ula\u015F Ali\\Desktop\\bela\\Bootcamp\\Bella\\Assets\\SimplePlayerMovement.cs",
+              "RelativeToolTip": "Assets\\SimplePlayerMovement.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAABQwEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T12:42:53.545Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NextLevelTrigger.cs",
+              "DocumentMoniker": "C:\\Users\\Ula\u015F Ali\\Desktop\\bela\\Bootcamp\\Bella\\Assets\\NextLevelTrigger.cs",
+              "RelativeDocumentMoniker": "Assets\\NextLevelTrigger.cs",
+              "ToolTip": "C:\\Users\\Ula\u015F Ali\\Desktop\\bela\\Bootcamp\\Bella\\Assets\\NextLevelTrigger.cs",
+              "RelativeToolTip": "Assets\\NextLevelTrigger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T11:30:03.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LevelRestarter.cs",
+              "DocumentMoniker": "C:\\Users\\Ula\u015F Ali\\Desktop\\bela\\Bootcamp\\Bella\\Assets\\LevelRestarter.cs",
+              "RelativeDocumentMoniker": "Assets\\LevelRestarter.cs",
+              "ToolTip": "C:\\Users\\Ula\u015F Ali\\Desktop\\bela\\Bootcamp\\Bella\\Assets\\LevelRestarter.cs",
+              "RelativeToolTip": "Assets\\LevelRestarter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T10:52:25.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SimplePlayerMovement1.cs",
+              "DocumentMoniker": "C:\\Users\\Ula\u015F Ali\\Desktop\\bela\\Bootcamp\\Bella\\Assets\\SimplePlayerMovement1.cs",
+              "RelativeDocumentMoniker": "Assets\\SimplePlayerMovement1.cs",
+              "ToolTip": "C:\\Users\\Ula\u015F Ali\\Desktop\\bela\\Bootcamp\\Bella\\Assets\\SimplePlayerMovement1.cs",
+              "RelativeToolTip": "Assets\\SimplePlayerMovement1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T09:51:40.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlayerCollisionLogger.cs",
+              "DocumentMoniker": "C:\\Users\\Ula\u015F Ali\\Desktop\\bela\\Bootcamp\\Bella\\Assets\\PlayerCollisionLogger.cs",
+              "RelativeDocumentMoniker": "Assets\\PlayerCollisionLogger.cs",
+              "ToolTip": "C:\\Users\\Ula\u015F Ali\\Desktop\\bela\\Bootcamp\\Bella\\Assets\\PlayerCollisionLogger.cs",
+              "RelativeToolTip": "Assets\\PlayerCollisionLogger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T09:48:08.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CollectibleManager.cs",
+              "DocumentMoniker": "C:\\Users\\Ula\u015F Ali\\Desktop\\bela\\Bootcamp\\Bella\\Assets\\CollectibleManager.cs",
+              "RelativeDocumentMoniker": "Assets\\CollectibleManager.cs",
+              "ToolTip": "C:\\Users\\Ula\u015F Ali\\Desktop\\bela\\Bootcamp\\Bella\\Assets\\CollectibleManager.cs",
+              "RelativeToolTip": "Assets\\CollectibleManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T09:45:39.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SimpleCharacterSwitcher.cs",
+              "DocumentMoniker": "C:\\Users\\Ula\u015F Ali\\Desktop\\bela\\Bootcamp\\Bella\\Assets\\SimpleCharacterSwitcher.cs",
+              "RelativeDocumentMoniker": "Assets\\SimpleCharacterSwitcher.cs",
+              "ToolTip": "C:\\Users\\Ula\u015F Ali\\Desktop\\bela\\Bootcamp\\Bella\\Assets\\SimpleCharacterSwitcher.cs",
+              "RelativeToolTip": "Assets\\SimpleCharacterSwitcher.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAmwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T09:35:48.373Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
