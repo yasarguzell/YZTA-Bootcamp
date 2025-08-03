@@ -143,8 +143,7 @@ Ekip içi günlük iletişim, WhatsApp üzerinden sağlanmıştır.
 **Sprint board screenshot:**  
 <img src="https://github.com/user-attachments/assets/da309e7d-a07c-49eb-982a-cf3d81af4e0a"/>
 
-# 🌀 Sprint 2 Raporu – FAITH AND SALVATION
-
+# 🌀 Sprint 2 Raporu
 ---
 
 ## 🗒️ Sprint Notları
@@ -214,3 +213,86 @@ Ulaş Ali Pekçevik, Müge Ezgi Ayyıldız, Yumna Ersöz, Yaşar Güzel, Yusuf D
 ### 🖼️ Miro Sprint Board 2 Ekran Görüntüsü:
 
 <img src="https://github.com/user-attachments/assets/1e027c41-29ee-4bee-9d41-091b0b5d33c9"/>
+
+# 🌀 Sprint 3 Raporu
+
+---
+
+## 🗒️ Sprint Notları
+- Kullanıcı hikayeleri, ilgili **Product Backlog** öğelerine entegre edilmiştir.  
+- Her bir backlog item’ına tıklanarak detaylı hikâye ve görev açıklamalarına ulaşılabilmektedir.
+
+---
+
+## 📊 Sprint Tahmini & Puanlama
+- **Sprint 3 Tahmini:** 100 Puan  
+- **Toplam Backlog:** 300 Puan  
+- Her sprint, 100’er puanlık görev yüküyle yapılandırılmıştır.  
+- Bu sprint, projenin **final üretim aşamasını** oluşturmaktadır.
+
+---
+
+## 🧱 Backlog Yapısı & Story Seçimi
+Bu sprintte, oyunun **tam sürüme ulaşması** hedeflenmiştir.  
+
+Backlog görevleri şu alanlara odaklanmıştır:
+- 🌀 Nihai karakter formu ve animasyonları  
+- 🎬 Oyunun son bölümü ve çıkış sahnesi  
+- 🛠️ Ana menü ve ayarlar ekranı  
+- 📘 Oyun içi rehber (tutorial) sistemi  
+- 🧪 Son testler, hata düzeltmeleri ve dengeleme işlemleri  
+
+---
+
+## 📅 Daily Scrum
+- Toplantılar, **Zoom** üzerinden günlük olarak sürdürülmüştür.  
+- Tüm ekip içi yazışmalar ve güncellemeler **Imgur** platformunda arşivlenmiştir.  
+- **Dosya adı:** `Sprint 3 - Günlük Scrum Sohbetleri`
+
+---
+
+## 🎮 Ürün Durumu & Oynanabilirlik
+- Oyun, **tam sürüm hâline** getirilmiş ve oynanabilir final versiyon sunulmuştur.  
+- **Son bölüm başarıyla entegre edilmiştir**:  
+  - Harita geçişleri  
+  - Karakter formları  
+  - Bulmacalar  
+  - Görsel-işitsel ögeler  
+- Ana menü, ayarlar, çıkış ekranı tamamlanmıştır.  
+- Büyük çaplı **bug taraması** ve **son testler** uygulanmıştır.
+
+📸 *Ekran görüntüleri:* `Sprint3_FinalGame_Screenshots` klasöründe yer almaktadır.
+
+---
+
+## 🧪 Sprint Review
+- Tüm ekip üyeleri görevlerini başarıyla sunmuştur.  
+- Aşağıdaki içerikler başarıyla gösterilmiştir:
+  - Oyun içi **form geçişleri**  
+  - Oyuncu **yönlendirme sistemi**  
+  - **Son sahne** ve **seslendirmeler**  
+- Final test sonuçları olumlu geri dönüş almıştır.  
+- Katılımcılar, oyunun artık **Steam yayınına hazır** olduğunu değerlendirmiştir.
+
+### 👥 Sprint Review Katılımcıları:
+Ulaş Ali Pekçevik, Müge Ezgi Ayyıldız, Yumna Ersöz, Yaşar Güzel
+
+---
+
+## 🔄 Sprint Retrospektifi
+
+### 👥 Ekip Yapısı
+- **Grup 1:** Ulaş Ali Pekçevik, Müge Ezgi Ayyıldız  
+  - Yeni bölümler ve içerik üretimi  
+- **Grup 2:** Yumna Ersöz, Yaşar Güzel  
+  - Test, hata ayıklama, final düzeltmeleri
+
+### 📝 Alınan Kararlar:
+- Toplantılar düzenli aralıklarla sürecektir.  
+- Yeni bölümler için ihtiyaç duyulabilecek asset’lerin listesi oluşturulmuştur.  
+- **Steam yayını sonrası** için bir güncelleme planı (*post-launch patch*) taslağı hazırlanacaktır.  
+- **Pazarlama materyalleri** (tanıtım videosu, görseller) finalize edilecektir.
+
+---
+
+## 📷 Sprint Board – Görsel
