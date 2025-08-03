@@ -19,7 +19,6 @@ Oyun Geliştirme 38
 |  [Ulaş Ali Pekçevik](https://www.linkedin.com/in/ulasalipekcevik)                               | Product Owner    |       
 |  [Yaşar Güzel](https://www.linkedin.com/in/yasarguzel/)                                         | Developer        |       
 |  [Yumna Ersöz](https://www.linkedin.com/in/yumna-ersöz-10b078222)                               | Developer        |        
-|  [Yusuf Dursun](https://www.linkedin.com/in/yusuf-dursun-a25b49254/)                            | Developer        |   
 
 ---
 
@@ -106,7 +105,7 @@ Sprint sonunda tüm ekip, proje kapsamında tamamlanan bölümler ve genel ilerl
 Bu olumlu geri dönüşler doğrultusunda, sonraki bölümlere dair yeni fikirler ve iyileştirme önerileri gündeme getirildi.
 
 **Sprint Review Katılımcıları:**  
-Ulaş Ali Pekçevik, Müge Ezgi Ayyıldız, Yaşar Güzel, Yumna Ersöz, Yusuf Dursun
+Ulaş Ali Pekçevik, Müge Ezgi Ayyıldız, Yaşar Güzel, Yumna Ersöz
 
 ---
 
@@ -195,7 +194,7 @@ Backlog, oyuncunun deneyimini zenginleştirecek şekilde aşağıdaki odaklara g
 - ⚖️ Level 3’teki platform zorluk dengesi  
 
 ### 👥 Katılımcılar:
-Ulaş Ali Pekçevik, Müge Ezgi Ayyıldız, Yumna Ersöz, Yaşar Güzel, Yusuf Dursun
+Ulaş Ali Pekçevik, Müge Ezgi Ayyıldız, Yumna Ersöz, Yaşar Güzel
 
 ---
 
@@ -247,7 +246,7 @@ Backlog görevleri şu alanlara odaklanmıştır:
 ## 📅 Daily Scrum
 - Toplantılar, **Zoom** üzerinden günlük olarak sürdürülmüştür.  
 - Tüm ekip içi yazışmalar ve güncellemeler **Imgur** platformunda arşivlenmiştir.  
-- **Dosya adı:** `Sprint 3 - Günlük Scrum Sohbetleri`
+- **Dosya adı:** `[Sprint 3_Günlük Scrum Sohbetleri.zip](https://github.com/user-attachments/files/21567910/Sprint.3_Gunluk.Scrum.Sohbetleri.zip)`
 
 ---
 
@@ -261,7 +260,7 @@ Backlog görevleri şu alanlara odaklanmıştır:
 - Ana menü, ayarlar, çıkış ekranı tamamlanmıştır.  
 - Büyük çaplı **bug taraması** ve **son testler** uygulanmıştır.
 
-📸 *Ekran görüntüleri:* `Sprint3_FinalGame_Screenshots` klasöründe yer almaktadır.
+📸 *Ekran görüntüleri:* `[Sprint3_FinalGame_Screenshots.zip](https://github.com/user-attachments/files/21567899/Sprint3_FinalGame_Screenshots.zip)` klasöründe yer almaktadır.
 
 ---
 
@@ -296,3 +295,5 @@ Ulaş Ali Pekçevik, Müge Ezgi Ayyıldız, Yumna Ersöz, Yaşar Güzel
 ---
 
 ## 📷 Sprint Board – Görsel
+
+<img src="https://github.com/user-attachments/assets/aa2861e5-155f-4cdc-9385-35a938a41179"/>
